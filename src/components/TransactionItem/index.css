@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.delete-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.delete-image {
+  height: 30px;
+  width: 30px;
+}
